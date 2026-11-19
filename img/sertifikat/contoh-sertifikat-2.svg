@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550" width="100%" height="100%">
+  <rect width="800" height="550" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="25" y="25" width="750" height="500" fill="none" stroke="#e2e8f0" stroke-width="1"/>
+  
+  <rect x="260" y="55" width="280" height="32" rx="4" fill="#f1f5f9"/>
+  <text x="400" y="77" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#64748b" text-anchor="middle">[CONTOH SERTIFIKAT 2]</text>
+
+  <text x="400" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="700" fill="#0f172a" text-anchor="middle">Sertifikat Kelulusan</text>
+  <text x="400" y="200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" fill="#64748b" text-anchor="middle">Diberikan kepada:</text>
+  <text x="400" y="240" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="600" fill="#1e40af" text-anchor="middle">[Nama Anda / Alif Kenzie B. E.]</text>
+
+  <text x="400" y="295" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" fill="#64748b" text-anchor="middle">Atas keberhasilan menyelesaikan kursus:</text>
+  <text x="400" y="335" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#0f172a" text-anchor="middle">[Nama Kelas / Pelatihan Web]</text>
+
+  <text x="100" y="460" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#64748b">Penerbit: [Lembaga Kursus]</text>
+  <text x="700" y="460" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#64748b" text-anchor="end">Tahun: 2025</text>
+</svg>

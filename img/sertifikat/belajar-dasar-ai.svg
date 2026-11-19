@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 550" width="100%" height="100%">
+  <rect width="800" height="550" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="25" y="25" width="750" height="500" fill="none" stroke="#e2e8f0" stroke-width="1"/>
+  
+  <!-- Ribbon header -->
+  <path d="M620 25 L730 25 L730 200 L675 160 L620 200 Z" fill="#1e293b"/>
+  <text x="675" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">SERTIFIKAT</text>
+  <text x="675" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="1">KELULUSAN</text>
+
+  <!-- Issuer -->
+  <text x="70" y="95" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="800" fill="#0f172a">dicoding</text>
+
+  <rect x="70" y="140" width="130" height="28" rx="4" fill="#0f172a"/>
+  <text x="135" y="159" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle">0LZ0JRJ40X65</text>
+
+  <text x="70" y="210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#64748b">Diberikan kepada</text>
+  <text x="70" y="245" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="700" fill="#0d9488">Alif Kenzie Balakosa Efendy</text>
+
+  <text x="70" y="285" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#64748b">Atas kelulusannya pada kelas</text>
+  <text x="70" y="320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="700" fill="#0f766e">Belajar Dasar AI</text>
+
+  <!-- Date & Info -->
+  <text x="70" y="440" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#0f172a">23 Januari 2026</text>
+  <text x="70" y="460" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#64748b">Dicoding Indonesia - Google Cloud Partner</text>
+  
+  <text x="730" y="460" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" fill="#94a3b8" text-anchor="end">dicoding.com/certificates/0LZ0JRJ40X65</text>
+</svg>

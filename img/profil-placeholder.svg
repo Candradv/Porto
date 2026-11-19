@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+  <rect width="400" height="400" fill="#f1f5f9" rx="8"/>
+  <circle cx="200" cy="150" r="60" fill="#cbd5e1"/>
+  <path d="M100 330 C100 250, 300 250, 300 330 Z" fill="#cbd5e1"/>
+  <text x="200" y="370" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" fill="#64748b" text-anchor="middle">Ganti dengan img/profil.jpg</text>
+</svg>

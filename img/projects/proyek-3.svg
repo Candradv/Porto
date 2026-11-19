@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+  <rect width="800" height="450" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="40" y="40" width="720" height="40" fill="#e2e8f0" rx="4"/>
+  <rect x="40" y="100" width="720" height="150" fill="#ffffff" stroke="#e2e8f0" rx="4"/>
+  <rect x="40" y="270" width="345" height="140" fill="#ffffff" stroke="#e2e8f0" rx="4"/>
+  <rect x="415" y="270" width="345" height="140" fill="#ffffff" stroke="#e2e8f0" rx="4"/>
+  <text x="400" y="185" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="500" fill="#64748b" text-anchor="middle">Screenshot Proyek 3 (img/projects/proyek-3.jpg)</text>
+</svg>

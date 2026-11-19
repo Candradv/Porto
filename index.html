@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alif Kenzie Balakosa Efendy — Junior Front-End Developer</title>
+  <meta name="description" content="Portofolio Alif Kenzie Balakosa Efendy — Junior Front-End Developer yang aktif belajar dan membangun website modern, bersih, dan responsif.">
+  
+  <!-- Open Graph / Meta Sosial -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Alif Kenzie Balakosa Efendy — Junior Front-End Developer">
+  <meta property="og:description" content="Portofolio resmi: Proyek, keahlian, dan sertifikat front-end web development.">
+  <meta property="og:image" content="img/profil-placeholder.svg">
+  <meta property="og:url" content="https://alifkenzie.dev">
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Navigasi Utama -->
+  <header class="site-header">
+    <div class="container header-container">
+      <a href="#hero" class="site-brand" id="nav-brand">AK</a>
+      <nav class="site-nav" aria-label="Navigasi Utama">
+        <ul class="nav-list">
+          <li><a href="#tentang" class="nav-link">Tentang</a></li>
+          <li><a href="#skill" class="nav-link">Skill</a></li>
+          <li><a href="#proyek" class="nav-link">Proyek</a></li>
+          <li><a href="#sertifikat" class="nav-link">Sertifikat</a></li>
+          <li><a href="#kontak" class="nav-link">Kontak</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <!-- Section 1: Hero -->
+    <section id="hero" class="hero-section">
+      <div class="container hero-container">
+        <div class="hero-content">
+          <p class="hero-greeting">Halo, perkenalkan saya</p>
+          <h1 class="hero-title" id="hero-name">Alif Kenzie Balakosa Efendy</h1>
+          <p class="hero-role" id="hero-role">Junior Front-End Developer</p>
+          <p class="hero-tagline" id="hero-tagline">Pengembang web pemula yang aktif belajar membangun antarmuka web bersih, responsif, dan mudah dipahami.</p>
+          
+          <div class="hero-actions">
+            <a href="#proyek" class="btn btn-primary">Lihat Proyek</a>
+            <a href="#kontak" class="btn btn-secondary">Hubungi Saya</a>
+          </div>
+        </div>
+
+        <div class="hero-media">
+          <div class="photo-wrapper">
+            <img src="img/profil-placeholder.svg" alt="Foto Profil Alif Kenzie Balakosa Efendy" id="hero-photo" width="280" height="280">
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 2: Tentang -->
+    <section id="tentang" class="section">
+      <div class="container">
+        <div class="section-header">
+          <h2 class="section-title">Tentang Saya</h2>
+          <div class="section-divider"></div>
+        </div>
+        <div class="about-card">
+          <p class="about-text" id="about-text">
+            Saya adalah pengembang web tingkat pemula yang sedang fokus memperkuat fondasi front-end. Saat ini saya aktif belajar melalui praktik pembuatan proyek mandiri, memahami penulisan kode semantik dan responsif, serta sangat terbuka untuk bimbingan, program magang/PKL, maupun kesempatan belajar hal baru di dunia pengembangan web.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 3: Skill -->
+    <section id="skill" class="section section-alt">
+      <div class="container">
+        <div class="section-header">
+          <h2 class="section-title">Keahlian & Kemampuan</h2>
+          <div class="section-divider"></div>
+        </div>
+        <div class="skills-grid" id="skills-container">
+          <!-- Diisi otomatis dari data.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 4: Proyek -->
+    <section id="proyek" class="section">
+      <div class="container">
+        <div class="section-header">
+          <h2 class="section-title">Proyek Pilihan</h2>
+          <div class="section-divider"></div>
+        </div>
+        <div class="projects-grid" id="projects-container">
+          <!-- Diisi otomatis dari data.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 5: Sertifikat -->
+    <section id="sertifikat" class="section section-alt">
+      <div class="container">
+        <div class="section-header">
+          <h2 class="section-title">Sertifikat</h2>
+          <div class="section-divider"></div>
+        </div>
+        <div class="certificates-grid" id="certificates-container">
+          <!-- Diisi otomatis dari data.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 6: Kontak -->
+    <section id="kontak" class="section">
+      <div class="container">
+        <div class="section-header">
+          <h2 class="section-title">Kontak</h2>
+          <div class="section-divider"></div>
+        </div>
+        <div class="contact-box">
+          <p class="contact-lead">
+            Tertarik untuk berkolaborasi, mendiskusikan peluang proyek, atau program magang/PKL? Silakan hubungi saya melalui salah satu saluran berikut:
+          </p>
+          <div class="contact-links" id="contact-links-container">
+            <!-- Diisi otomatis dari data.js -->
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer Sederhana -->
+  <footer class="site-footer">
+    <div class="container footer-container">
+      <p class="footer-copy">&copy; <span id="current-year">2026</span> <span id="footer-name">Alif Kenzie Balakosa Efendy</span>
+      <a href="#hero" class="back-to-top">Kembali ke atas &uarr;</a>
+    </div>
+  </footer>
+
+  <!-- Modal Pratinjau Sertifikat (Accessible Dialog) -->
+  <div id="cert-modal" class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+    <div class="modal-backdrop" id="modal-backdrop"></div>
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <h3 id="modal-title" class="modal-heading">Pratinjau Sertifikat</h3>
+        <button type="button" class="modal-close" id="modal-close-btn" aria-label="Tutup jendela pratinjau">&times;</button>
+      </div>
+      <div class="modal-body">
+        <img src="" alt="" id="modal-img" class="modal-image" width="700" height="480">
+        <div class="modal-meta">
+          <p class="modal-issuer" id="modal-issuer"></p>
+          <a href="#" target="_blank" rel="noopener noreferrer" class="btn btn-secondary btn-sm" id="modal-cred-link" hidden>Verifikasi Sertifikat &nearr;</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="js/data.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
